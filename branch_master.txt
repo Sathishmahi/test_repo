@@ -1,0 +1,2 @@
+hi iam coming from master branch
+hi this 2nd line of master branch file in bug_fix branch
